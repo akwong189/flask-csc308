@@ -1,4 +1,4 @@
-# flask app -csc308
+# flask app - csc308
 
 ## Flask backend RESTful api for REACT app
 
